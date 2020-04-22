@@ -13,6 +13,7 @@ public class ttt3 extends JFrame
    boolean myturn ; 
    BufferedReader br ; 
    BufferedWriter bw ;
+   BufferedWriter bw2 ;
    Thread connection ; 
    Process prologProcess ; 
    String prolog ; 
