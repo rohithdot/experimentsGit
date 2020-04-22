@@ -19,7 +19,8 @@ import javax.swing.* ;
 
 public class Connector extends Thread { 
    int clientNum ; 
-   int port ; 
+   int port ;
+   int port2 ; 
    ServerSocket portalSocket ; 
    Vector collaborators ; // Object output streams for clients 
 

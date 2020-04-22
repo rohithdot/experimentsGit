@@ -9,7 +9,7 @@ public class ttt3 extends JFrame
                        {
    JButton b11,b21,b31,
            b12,b22,b32,
-           b13,b23,b33 ;
+           b13,b23;
    boolean myturn ; 
    BufferedReader br ; 
    BufferedWriter bw ;
